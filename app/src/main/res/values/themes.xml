@@ -1,0 +1,5 @@
+<resources>
+    <style name="Base.Theme.Layouts" parent="Theme.Material3.DayNight.NoActionBar" />
+
+    <style name="Theme.Layouts" parent="Base.Theme.Layouts" />
+</resources>

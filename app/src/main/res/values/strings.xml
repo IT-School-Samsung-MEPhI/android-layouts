@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Layout Examples</string>
+    <string name="main_title">Выберите тип разметки</string>
+    <string name="linear_layout">LinearLayout</string>
+    <string name="relative_layout">RelativeLayout</string>
+    <string name="frame_layout">FrameLayout</string>
+    <string name="table_layout">TableLayout</string>
+    <string name="constraint_layout">ConstraintLayout</string>
+    <string name="grid_layout">GridLayout</string>
+
+    <string name="sample_text">Пример текста</string>
+    <string name="button_text">Кнопка</string>
+    <string name="edit_text_hint">Введите текст</string>
+
+    <string name="vertical_linearlayout">Вертикальный LinearLayout</string>
+    <string name="constraint_layout_example">ConstraintLayout</string>
+    <string name="relative_layout_example">Пример RelativeLayout</string>
+    <string name="background">Background</string>
+    <string name="another_background">Another Background</string>
+    <string name="middle">Middle</string>
+    <string name="foreground">Foreground</string>
+    <string name="cell_1">Ячейка 1</string>
+    <string name="cell_2">Ячейка 2</string>
+    <string name="cell_3">Ячейка 3</string>
+    <string name="cell_4">Ячейка 4</string>
+    <string name="button_1">Кнопка 1</string>
+    <string name="button_2">Кнопка 2</string>
+    <string name="button_3">Кнопка 3</string>
+    <string name="button_4">Кнопка 4</string>
+    <string name="big_button">Большая Кнопка</string>
+</resources>
